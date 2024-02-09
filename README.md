@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> <img src= "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611pv011foyh5hs35sdf5ntqkacyyxyyqiktky2l6nr&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> </h1>
+![MasterHead](https://wallpapers.com/images/hd/4k-programming-with-blue-eyeglasses-vj4l8y5fr5lihujl.jpg)
 
-<h2 align="center"><b>Hi there</b>👋, I'm Srijan</h2>
+
+<h1 align="center"><b>Hi there</b>👋, I'm Srijan</h1>
 <h3 align="center">A passionate developer and competitive coder from IIIT Allahabad</h3>
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1687506575~exp=1687507175~hmac=abb37118e53b73d6e800ae323adfe516e000689780c5e1a1e95d9ef516651e85">
 
